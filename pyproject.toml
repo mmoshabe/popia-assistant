@@ -1,0 +1,31 @@
+[project]
+name = "popia-assistant"
+version = "0.1.0"
+description = "POPIA question answering with citations: hybrid retrieval (Voyage + BM25) and Claude search-result citations, with an eval set."
+readme = "README.md"
+authors = [
+    { name = "mmoshabe", email = "49338520+mmoshabe@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=2.14.0",
+    "numpy>=2.5.5",
+    "pypdf>=7.1.1",
+    "python-dotenv>=1.2.4",
+    "voyageai>=0.6.0",
+]
+
+[project.scripts]
+popia = "popia_assistant.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.11.29,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

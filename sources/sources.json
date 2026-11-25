@@ -1,0 +1,58 @@
+[
+ {
+  "id": "popia",
+  "title": "Protection of Personal Information Act 4 of 2013",
+  "kind": "act",
+  "date": "2013-11-26",
+  "url": "https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013protectionofpersonalinforcorrect.pdf",
+  "sha256": "1f5d09b0bcb5e02b24b6b12e1f39bc1ff39606e949ace89e343639f2fc32d154"
+ },
+ {
+  "id": "regs",
+  "title": "Regulations relating to the Protection of Personal Information, 2018",
+  "kind": "regulations",
+  "date": "2018-12-14",
+  "url": "https://inforegulator.org.za/wp-content/uploads/2020/07/20181214-gg42110-rg10897-gon1383-POPIA-Regulations-1.pdf",
+  "sha256": "2d2ea1975eec4ee09190b32232cbe1e883e6994954fb7a1240b6a1e4d6e8e6c2"
+ },
+ {
+  "id": "gn-io",
+  "title": "Guidance Note on Information Officers and Deputy Information Officers",
+  "kind": "guidance",
+  "date": "2025",
+  "url": "https://inforegulator.org.za/wp-content/uploads/2025/07/Guidance_Note_on_Information_Officers_.pdf",
+  "sha256": "122c8caf46548db712401b42fe71d09ce10246c1cb6a6d70fe17b808ed46f3ad"
+ },
+ {
+  "id": "gn-dm",
+  "title": "Guidance Note on Direct Marketing in terms of POPIA",
+  "kind": "guidance",
+  "date": "2024",
+  "url": "https://inforegulator.org.za/wp-content/uploads/2020/07/GUIDANCE-NOTE-ON-DIRECT-MARKETING-IN-TERMS-OF-THE-PROTECTION-OF-PERSONAL-INFORMATION-ACT-4-OF-2013-POPIA.pdf",
+  "sha256": "28969ad225eb871bbae83c51c587a5c73ced83c925e05bf05dc24a321c8d09fd"
+ },
+ {
+  "id": "gn-special",
+  "title": "Guidance Note on the Processing of Special Personal Information",
+  "kind": "guidance",
+  "date": "2021-06-28",
+  "url": "https://inforegulator.org.za/wp-content/uploads/2020/07/Guidance-Note-Processing-Special-PersonalInformation-20210628-004.pdf",
+  "sha256": "32e149ac2066fd6c11abb198cddce8c1c0f8fd4b7085d3cc50db91363e62e714"
+ },
+ {
+  "id": "gn-children",
+  "title": "Guidance Note on the Processing of Personal Information of Children",
+  "kind": "guidance",
+  "date": "2021-06-28",
+  "url": "https://inforegulator.org.za/wp-content/uploads/2020/07/GuidanceNote-Processing-PersonalInformation-Children-20210628-1.pdf",
+  "sha256": "29c0fe4b0aa58fdc53e15c236474e94383abe4efeb49574e294c2bf6d20dce4a"
+ },
+ {
+  "id": "gn-prior",
+  "title": "Revised Guidance Note on Applications for Prior Authorisation",
+  "kind": "guidance",
+  "date": "2014-01-30",
+  "url": "https://inforegulator.org.za/wp-content/uploads/2020/07/Revised-Guidance-Note-on-applications-for-Prior-Authorisation-adopted-by-Members-30-Jan14.pdf",
+  "sha256": "5a011a0bc968287d5e9289a07417f355bd9f16966cfe3b8ba486fd697f38537e"
+ }
+]
